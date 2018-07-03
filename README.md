@@ -1,6 +1,6 @@
-#Calculator 
+<b>Calculator </b>
 </br>Built using Swing components with the WindowBuilder tool in Eclipse.
-</br>
+
 </br>
 
 TODO:</br>
