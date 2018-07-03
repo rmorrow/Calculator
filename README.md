@@ -1,4 +1,5 @@
-Calculator built using Swing components with the WindowBuilder tool in Eclipse.
+#Calculator 
+</br>Built using Swing components with the WindowBuilder tool in Eclipse.
 </br>
 </br>
 
